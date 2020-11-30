@@ -1,2 +1,2 @@
-# pjs_react_demo
+# PJS react demo
 react based demo
