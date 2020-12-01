@@ -19,7 +19,7 @@ function Home() {
                 <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                   
                   <div class="mt-3 sm:mt-0">
-                    <a href="#" class="w-full flex items-center justify-center px-6 py-2 border border-transparent text-base font-medium text-gray-100 bg-gray-900 hover:bg-indigo-200 md:py-3 md:text-lg md:px-8">
+                    <a class="w-full flex items-center justify-center px-6 py-2 border border-transparent text-base font-medium text-gray-100 bg-gray-900 hover:bg-indigo-200 md:py-3 md:text-lg md:px-8">
                       Live demo
                     </a>
                   </div>
